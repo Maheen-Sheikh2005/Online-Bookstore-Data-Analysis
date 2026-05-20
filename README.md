@@ -1,4 +1,5 @@
-Online Bookstore Data Analysis (SQL Portfolio Project)
+###Online Bookstore Data Analysis (SQL Portfolio Project)
+
 Project Overview
 This project focuses on analyzing an online bookstore's database using PostgreSQL. The goal is to solve real-world business problems by answering 20 analytical questions. These questions are divided into basic and advanced levels, covering inventory management, customer behavior, and sales performance.
 
